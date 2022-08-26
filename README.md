@@ -1,6 +1,6 @@
 # SAAS-Landing-Page
 > Designed a simple landing page using HTML and TailwindCSS with responsive design.
-> Live demo [_here_](https://busniess-landing-page.vercel.app/).
+> Live demo [_here_](https://saas-landing-page-umber.vercel.app/).
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
